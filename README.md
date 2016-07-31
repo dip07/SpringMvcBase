@@ -8,4 +8,4 @@ This Java project integrates:
 2. Maven
 3. JDBC
 This project can be used as a starting point for any web project and used for adding logic based on it. Sometimes we have issues in configuring this things. So, there it is. Download it and use it.
-**** HAPPY CodInG ****
+#### HAPPY CodInG ####
