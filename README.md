@@ -6,6 +6,7 @@ Many-a-times we need to have do a web project. Suppose we are at a Hackathon and
 This Java project integrates:
 1. Spring MVC
 2. Maven
-3. JDBC
-This project can be used as a starting point for any web project and used for adding logic based on it. Sometimes we have issues in configuring this things. So, there it is. Download it and use it.
+3. JDBC  
+
+This project can be used as a starting point for any web project and used for adding logic based on it. Sometimes we have issues in configuring the paths/resources folder. Trying to fix those can be a tiring task. So, there it is. Download it and use it.
 #### HAPPY CodInG ####
